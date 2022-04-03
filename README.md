@@ -39,7 +39,7 @@ To enable JavaScript (aka ECMAScript) developers to explore the world of microco
 ## Post workshop goals (office hours)
 * Interface with a 3rd party API via wi-fi and do something with your hardware
 
-## BOM
+## BOM [Google sheet with links and prices](https://docs.google.com/spreadsheets/d/1mZAw3TPqquWeDhawjyudr1aHb2-XNfY4TG3rIGlpbOc/edit?usp=sharing)
 * Moddable 3 (includes ePaper display)
 * 3 x LED's
 * 3 x 330 ohm resistors for LED's
