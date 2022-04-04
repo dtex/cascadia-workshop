@@ -25,7 +25,8 @@ To enable JavaScript (aka ECMAScript) developers to explore the world of microco
 * Windows users should:
   1. Download the Microsoft Visual Studio 2022 Community installer.
   2. Launch the installer. On the "Workloads" tab, select the "Desktop development for C++" option. On the "Individual Components" tab, select "Windows 10 SDK (10.0.19041.0)" (this should be preselected on Windows 10 systems but must be manually included on Windows 11 systems). Proceed with the installation as configured.
-* @hipsterbrown Should we ask them to use xs-dev or to do any other pre-work? Internet and wi-fi quality are TBD
+* For Mac and Linux users, install [`xs-dev`](https://github.com/HipsterBrown/xs-dev#install) and go through the [setup process](https://github.com/HipsterBrown/xs-dev#moddable-sdk-setup--update--teardown)
+  * [Windows support coming soon](https://github.com/HipsterBrown/xs-dev/pull/44)
 
 ## Workshop goals (the first two hours)
 * Moddable SDK install & setup
@@ -38,6 +39,8 @@ To enable JavaScript (aka ECMAScript) developers to explore the world of microco
 
 ## Post workshop goals (office hours)
 * Interface with a 3rd party API via wi-fi and do something with your hardware
+* Create embedded web server to interact with hardware
+* Display sensor data on ePaper screen
 
 ## BOM [Google sheet with links and prices](https://docs.google.com/spreadsheets/d/1mZAw3TPqquWeDhawjyudr1aHb2-XNfY4TG3rIGlpbOc/edit?usp=sharing)
 * Moddable 3 (includes ePaper display)
